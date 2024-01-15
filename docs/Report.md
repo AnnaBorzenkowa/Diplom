@@ -9,8 +9,10 @@
 - выдача кредита по данным банковской карты.
 
 Внешний вид стартовой страницы сервиса:
+![img_1](https://github.com/AnnaBorzenkowa/Diplom/assets/131149653/83f98da6-cdda-430b-bd77-995395ea6e37)
 
 По результату прогона автотестов сформирован слудующий отчет Allure:
+![img](https://github.com/AnnaBorzenkowa/Diplom/assets/131149653/6f650e0d-d0be-491e-a3c5-b7e5195f8819)
 
 
 ## Количество тест-кейсов: 70
